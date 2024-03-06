@@ -8,9 +8,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-Lynx)
 
-## Projects Showcase
-- [Project 1](link)
-- [Project 2](link)
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{ig-Lynx}/count.svg)
