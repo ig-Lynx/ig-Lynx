@@ -11,6 +11,9 @@
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/laxetti-daksh/)
 
+  ____
+  
+
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ig-Lynx&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-Lynx&layout=compact&theme=radical)
