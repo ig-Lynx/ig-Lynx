@@ -1,4 +1,4 @@
-# Hi there, I'm Daksh R Laxetti👋
+# Heyy there, I'm Daksh R Laxetti👋
 - 🚀 Studying B.Tech in CSBS ( Computer Science + Business Systems)
 - 🌱 Always learning and exploring new technologies.
 - 📰 Up to date on all the latest AI models.
